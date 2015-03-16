@@ -1,2 +1,5 @@
 C:\Users\red\Documents\GitHub\project\LevelEditor\LevelEditor\bin\Debug\LevelEditor.exe.config
 E:\project\LevelEditor\LevelEditor\bin\Debug\LevelEditor.exe.config
+E:\project\LevelEditor\LevelEditor\obj\Debug\LevelEditor.csprojResolveAssemblyReference.cache
+E:\project\LevelEditor\LevelEditor\obj\Debug\LevelEditor.Properties.Resources.resources
+E:\project\LevelEditor\LevelEditor\obj\Debug\LevelEditor.csproj.GenerateResource.Cache
